@@ -11,7 +11,6 @@
 <script>
 import { defineComponent } from 'vue'
 import { add } from './test.js'
-debugger
 export default defineComponent({
   name: 'IndexPage'
 })
